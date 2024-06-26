@@ -1,0 +1,18 @@
+h1,
+p,
+h2 {
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
+
+main {
+  display: flex;
+}
+
+ul {
+  font-size: 20px;
+  font-weight: bold;
+}
